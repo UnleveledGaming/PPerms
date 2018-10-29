@@ -1,0 +1,11 @@
+name: Powerful-Recode
+main: com.github.gizmo0320.PowerfulPerms.PowerfulPerms
+version: 4.6.1
+author: gizmo0320
+softdepend: [Vault]
+load: startup
+
+commands:
+ powerfulperms:
+  description: The global command of PowerfulPerms for modifying permissions.
+  aliases: [pp, pop, pow]
