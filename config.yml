@@ -1,0 +1,42 @@
+# default config.yml
+
+# Database
+type: mysql
+host: localhost
+database: minecraft
+prefix: ""
+port: 3306
+username: root
+password: potato
+
+# Redis
+redis: true
+redis_ip: 127.0.0.1
+redis_port: 6379
+redis_password: ""
+
+# Server name used for per-server Bukkit sided permissions to work. Use the same as in BungeeCord config.
+# This is not used Bungee-side.
+servername: ""
+
+# Set "onlinemode: false" if you run your server in offline mode. Set to "onlinemode: mixed" for mixed mode, more details about this on the PowerfulPerms wiki. Defaults to true.
+# This should be set to the mode of the network, not the mode of the current server. If Bungee is running online mode it will forward online mode UUIDs to Spigot(hopefully) which means onlinemode should be set to true.
+onlinemode: true
+
+# Chat format used along with PlaceholderAPI. PlaceholderAPI must be installed. Disable if you are using a different chat plugin. 
+# Use PlaceholderAPI's placeholders but with brackets instead of percentage.
+# This is not used Bungee-side.
+use_chatformat: true
+chatformat: "{powerfulperms_prefix}{player_name}{powerfulperms_suffix}{message}"
+
+# Disable all chat formatting(If you want to use vanilla formatting)
+disable_chatformat: false
+
+# Vault assumption is either "local" or "global". If it's local, any Vault modifications will have the current server as a parameter. If it's global, the modification will be executed as 
+# global. For example, if you add a permission through Vault and this is set to "local" it will be added only for the current server. (See the command reference)
+# This is not used Bungee-side.
+vault_assumption: local
+
+# Should Vault support offline player checks?
+# Will cause heavy lag on server main thread.
+vault_offline: false
