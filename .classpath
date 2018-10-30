@@ -13,7 +13,7 @@
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/redis/clients/jedis/2.9.0/jedis-2.9.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/org/apache/commons/commons-pool2/2.0/commons-pool2-2.0.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/org/spigotmc/spigot-api/1.12-R0.1-SNAPSHOT/spigot-api-1.12-R0.1-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/org/spigotmc/spigot-api/1.13.1-R0.1-SNAPSHOT/spigot-api-1.13.1-R0.1-SNAPSHOT.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/org/yaml/snakeyaml/1.18/snakeyaml-1.18.jar"/>
@@ -29,13 +29,13 @@
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/io/netty/netty-resolver/4.1.15.Final/netty-resolver-4.1.15.Final.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/net/milkbowl/vault/VaultAPI/1.6/VaultAPI-1.6.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/org/bukkit/bukkit/1.9-R0.1-SNAPSHOT/bukkit-1.9-R0.1-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/org/bukkit/bukkit/1.13.1-R0.1-SNAPSHOT/bukkit-1.13.1-R0.1-SNAPSHOT.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/org/avaje/ebean/2.8.1/ebean-2.8.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/junit/junit/4.10/junit-4.10.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/me/clip/placeholderapi/2.3.1/placeholderapi-2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/me/clip/placeholderapi/2.8.2/placeholderapi-2.8.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/com/google/guava/guava/17.0/guava-17.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/com/github/bys1/importer/0.5-Beta/importer-0.5-Beta.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Gizmo0320/.m2/repository/org/spigotmc/spigot-api/1.10-R0.1-SNAPSHOT/spigot-api-1.10-R0.1-SNAPSHOT-javadoc.jar"/>

@@ -18,7 +18,7 @@ public class AboutCommand extends SubCommand {
     public CommandResult execute(ICommand invoker, String sender, String[] args) {
         if (hasBasicPerms(invoker, sender, "powerfulperms.about")) {
             if (args != null && args.length >= 1 && args[0].equalsIgnoreCase("about")) {
-                sendSender(invoker, sender, "PowerfulPerms version " + plugin.getVersion() + " by gizmo0320");
+                sendSender(invoker, sender, "PowerfulPer version " + plugin.getVersion() + " by gizmo0320");
                 String spigotUser = "%%__USER__%%";
                 String uniqueDownloadID = "%%__NONCE__%%";
                 String copy = "https://www.SpigotMC.org/members/" + spigotUser;
