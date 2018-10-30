@@ -71,7 +71,7 @@ public class PowerfulPerms extends JavaPlugin implements Listener, PowerfulPerms
             serverMode = ServerMode.OFFLINE;
         else if (getConfig().getString("onlinemode", "default").equalsIgnoreCase("mixed"))
             serverMode = ServerMode.MIXED;
-        getLogger().info("PowerfulPerms is now running on server mode " + serverMode);
+        getLogger().info("PPerms is now running on server mode " + serverMode);
 
         loadConfig();
 
