@@ -1,1 +1,1 @@
-# PPerms is a recode of the popular permissions plugin Powerful Perms
+# PPerms is a recode of the popular permissions plugin PowerfulPerms
