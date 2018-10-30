@@ -1,6 +1,6 @@
 name: Powerful-Recode
 main: com.github.gizmo0320.PowerfulPerms.PowerfulPerms
-version: 4.6.1
+version: 4.7.0
 author: gizmo0320
 softdepend: [Vault]
 load: startup
